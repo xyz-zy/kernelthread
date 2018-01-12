@@ -52,7 +52,9 @@ VII)futexes are tricky:
 	https://www.akkadia.org/drepper/futex.pdf
 
 VIII)install gcc-4.9:
+
 https://askubuntu.com/questions/466651/how-do-i-use-the-latest-gcc-on-ubuntu?answertab=active#tab-top
+
 	sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 	sudo apt-get update
 	sudo apt-get install gcc-4.9 g++-4.9
